@@ -1,3 +1,15 @@
+![Top Lang](https://img.shields.io/github/languages/top/xnuvers007/YoutubeDownWeb)
+![Repo Size](https://img.shields.io/github/repo-size/xnuvers007/YoutubeDownWeb)
+![Issue](https://img.shields.io/github/issues/xnuvers007/YoutubeDownWeb)
+![Issue Close](https://img.shields.io/github/issues-closed/xnuvers007/YoutubeDownWeb)
+![Pull Req](https://img.shields.io/github/issues-pr/xnuvers007/youtubedownweb)
+![Closed Pull Req](https://img.shields.io/github/issues-pr-closed-raw/xnuvers007/YoutubeDownweb)
+![License](https://img.shields.io/github/license/xnuvers007/Youtubedownweb)
+![Youtube Pythonanywhere](https://img.shields.io/website?down_color=red&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fyoutubedown.pythonanywhere.com)
+![Commit Activity](https://img.shields.io/github/commit-activity/w/xnuvers007/YoutubeDownWeb)
+![Last Commit](https://img.shields.io/github/last-commit/xnuvers007/youtubedownweb)
+![Release Date](https://img.shields.io/github/release-date/xnuvers007/youtubedownweb)
+
 # YoutubeDownWeb
 
 live = https://youtubedown.pythonanywhere.com
