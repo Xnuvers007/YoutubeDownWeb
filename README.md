@@ -90,6 +90,43 @@ bug jcquery, bootstrap and popperjs
 
 dan beberapa bug lainnya
 
+# Tutorial PythonAnywhere
+    
+    1. go to http://pythonanywhere.com/
+    2. u choose register / signup (recomended using temp mail)
+    3. go to web and "add a new web app"
+   ![image](https://user-images.githubusercontent.com/62522733/145648014-eac6f27f-fd93-4caf-b339-fe89e4bae25d.png)
+     
+    4. next
+    5. select flask then select python 3.9 , next
+    6. remove /mysite from /home/yourusernameaccount/mysite/flask_app.py -> /home/yourusernameaccount/flask_app.py , next
+    7. website created successfully
+    
+    8. go to web again
+    9. in this you add (enter url) /static/   and the directory /home/yourusernameaccount/
+   ![image](https://user-images.githubusercontent.com/62522733/145648613-37ef1b1c-9de9-45f8-895b-9390991d89e3.png)
+   
+    10. go to files
+    11. create robots.txt and type flask_app.py
+   ![image](https://user-images.githubusercontent.com/62522733/145648713-7e5836e9-acd9-460a-864c-aedd4580d86e.png)
+     
+    12. select all from flask_app.py , and paste it main.py or flask_app.py from this github
+    13. save and refresh
+   ![image](https://user-images.githubusercontent.com/62522733/145648894-853c1388-ceb2-42f1-9720-eedf292353eb.png)
+    
+    14. then go back to web
+    15. u can activated or no
+   ![image](https://user-images.githubusercontent.com/62522733/145648979-f9f98f95-d083-4ae8-b1ee-01000a09bae7.png)
+    
+    16. my recommended is enabled https, after that, go to your website pythonanywhere, and click this
+   ![image](https://user-images.githubusercontent.com/62522733/145649217-55ad04b0-b235-4864-acfb-8c489d6d5743.png)
+
+
+
+
 # Copyright
 
 Copyright @ 2021 Xnuvers007
+
+![image](https://user-images.githubusercontent.com/62522733/145647729-b46302e8-64be-4599-91bb-d9f30fe9fe4a.png)
+
